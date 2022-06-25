@@ -1,0 +1,17 @@
+Library/* 
+Logs/* 
+Temp/* 
+.vs/* 
+obj/* 
+ 
+.vsconfig 
+*.sln 
+*.csproj Library/* 
+Logs/* 
+Temp/* 
+.vs/* 
+obj/* 
+ 
+.vsconfig 
+*.sln 
+*.csproj 
